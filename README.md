@@ -20,11 +20,12 @@ To execute this script you need to run it in the command prompt.
     ```
 
 ## Add More Token 
+
 To add more token, you need to add the Token in the ```token_list.csv``` file.
 ---
 
-<!-- ## Contact
+## Contact
 
 mazhar921345@gmail.com
-whatsapp: +923414313217 -->
+whatsapp: +923414313217
 
