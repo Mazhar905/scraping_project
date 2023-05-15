@@ -16,7 +16,7 @@ pip install -r requirement.txt
 To execute this script you need to run it in the command prompt.
 
     ```bash
-    python3 scraping.py
+    python3 scraping.py 'token or url as parameter'
     ```
 
 ## Add More Token 
